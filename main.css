@@ -30,6 +30,7 @@ body{
   font-size: 1.5rem;
   line-height: 2rem;
   font-weight: 700;
+  color: #08ddd2;
 }
 
 .form {
@@ -60,7 +61,7 @@ body{
 }
 
 .input-group input:focus {
-  border-color: darkcyan;
+  border-color: #08ddd2;
 }
 
 .forgot{
@@ -79,16 +80,16 @@ body{
 }
 
 .forgot a:hover, .signup a:hover {
-  text-decoration: underline darkcyan
+  text-decoration: underline #08ddd2;
 }
 
 .sign {
   display: block;
   width: 100%;
-  background-color:darkcyan;
+  background-color:#08ddd2;
   padding: 0.75rem;
   text-align: center;
-  color: snow;
+  color: #1B2631;
   border: none;
   border-radius: 0.375rem;
   font-weight: 600;
